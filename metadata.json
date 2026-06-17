@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Publisher",
+  "description": "Publishes your AI Studio workspace to a GitHub repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
